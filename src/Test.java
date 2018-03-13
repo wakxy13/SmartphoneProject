@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("hello world");
 		System.out.println("This is a modification.");
 		System.out.println("third one");
+		System.out.println("Bonjour JM");
 	}
 
 }
