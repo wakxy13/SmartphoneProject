@@ -8,6 +8,7 @@ public class Test {
 		System.out.println("third one");
 		System.out.println("Bonjour JM-");
 		System.out.println("No more dbz tonight!");
+		System.out.println("Dernier!");
 	}
 
 }
